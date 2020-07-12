@@ -1,3 +1,3 @@
 begin
-    print("hello")
+    print("hello");
 end
