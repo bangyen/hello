@@ -1,1 +1,3 @@
-print("hello")
+begin
+    print("hello")
+end
