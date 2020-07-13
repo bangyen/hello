@@ -1,5 +1,5 @@
 # hello
-Programming language print "hello".
+Printing "hello" in different programming languages.
 ************************
 Is there programming languages you like?
 *************************************
@@ -12,36 +12,37 @@ Is there programming languages you like?
 6. C#
 7. D
 8. Erlang
-9. Fortran
-10. F#
-11. Go
-12. Haskell
-13. HTML
-14. Java
-15. JavaScript
-16. Julia
-17. Kotlin
-18. Lisp
-19. Lua
-20. Objective-C
-21. Pascal
-22. Perl
-23. PHP
-24. Prolog
-25. Python
-26. Python2
-27. R
-28. Ruby
-29. Rust
-30. Scala
-31. Scheme
-32. Shell
-33. SmallTalk
-34. Swift
-35.tcl
-36. VB.Net
-37. Vue.js
+9. Factor
+10. Fortran
+11. F#
+12. Go
+13. Haskell
+14. HTML
+15. Java
+16. JavaScript
+17. Julia
+18. Kotlin
+19. Lisp
+20. Lua
+21. Objective-C
+22. Pascal
+23. Perl
+24. PHP
+25. Prolog
+26. Python
+27. Python2
+28. R
+29. Ruby
+30. Rust
+31. Scala
+32. Scheme
+33. Shell
+34. SmallTalk
+35. Swift
+36.tcl
+37. VB.Net
+38. Vue.js
 ******************************************************
-A total of 36 programming languages.What other programming languages do you want to see?
+A total of 36 programming languages. What other programming languages do you want to see?
 ## *And*
-Author's email is guozhenduo1@163.com . Welcome!!!
+Author's email is [guozhenduo1@163.com](mailto:guozhenduo1@163.com). Welcome!!!
