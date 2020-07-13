@@ -39,10 +39,11 @@ Is there programming languages you like?
 33. Shell
 34. SmallTalk
 35. Swift
-36.tcl
+36. tcl
 37. VB.Net
 38. Vue.js
+39. Factor(Banyen)
 ******************************************************
-A total of 36 programming languages. What other programming languages do you want to see?
+A total of 39 programming languages. What other programming languages do you want to see?
 ## *And*
 Author's email is [guozhenduo1@163.com](mailto:guozhenduo1@163.com). Welcome!!!
