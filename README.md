@@ -12,7 +12,7 @@ Is there programming languages you like?
 6. C#
 7. D
 8. Erlang
-9. [Factor](http://github.com/bangyen/factor)
+9. [Factor](http://github.com/bangyen/factor-lang)
 10. Fortran
 11. F#
 12. Go
