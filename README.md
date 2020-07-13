@@ -12,7 +12,7 @@ Is there programming languages you like?
 6. C#
 7. D
 8. Erlang
-9. Factor
+9. [Factor](http://github.com/bangyen/factor)
 10. Fortran
 11. F#
 12. Go
@@ -42,8 +42,7 @@ Is there programming languages you like?
 36. tcl
 37. VB.Net
 38. Vue.js
-39. (Factor)[http://github.com/bangyen/factor]
 ******************************************************
-A total of 39 programming languages. What other programming languages do you want to see?
+A total of 38 programming languages. What other programming languages do you want to see?
 ## *And*
 Author's email is [guozhenduo1@163.com](mailto:guozhenduo1@163.com). Welcome!!!
